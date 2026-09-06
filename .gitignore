@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Test / tooling caches
+.pytest_cache/
+.testwork-*/
+.ptmp/
+.tmp/

@@ -1,0 +1,16 @@
+{
+  "gpu_layers": 0,
+  "fit": "off",
+  "context_length": 2048,
+  "cache_type_k": "q4_0",
+  "cache_type_v": "q4_0",
+  "flash_attn": "off",
+  "defrag_thold": 0.0,
+  "threads": 8,
+  "batch_size": 512,
+  "ubatch_size": 512,
+  "n_cpu_moe": null,
+  "cpu_moe": null,
+  "kv_offload": null,
+  "override_tensor": null
+}
